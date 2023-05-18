@@ -30,7 +30,6 @@ $dbname = "crud";
 $coon = new PDO("mysql:host=$host;dbname=".$dbname, $user, $pass);
 ```
 ##
-# Créditos:
-# Rodrigo Luz
-# rodrigolluzdevr@gmail.com
-# https://www.linkedin.com/in/rodrigolluz/
+# Créditos: Rodrigo Luz
+#rodrigolluzdevr@gmail.com
+#https://www.linkedin.com/in/rodrigolluz/
