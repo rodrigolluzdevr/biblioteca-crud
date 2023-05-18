@@ -3,7 +3,8 @@
 
 Readme.md
 
-Readme.md
+![print.tela-login](https://github.com/rodrigolluzdevr/biblioteca-crud/assets/127913307/4b2a584c-d76b-48c7-8706-bc27bf2fb392)
+
 
 ```sql
 - Criar a tabela no Mysql Workbanch:
@@ -29,8 +30,7 @@ $dbname = "crud";
 $coon = new PDO("mysql:host=$host;dbname=".$dbname, $user, $pass);
 ```
 ##
-
 # Créditos:
-Rodrigo Luz
-rodrigolluzdevr@gmail.com
-https://www.linkedin.com/in/rodrigolluz/
+# Rodrigo Luz
+# rodrigolluzdevr@gmail.com
+# https://www.linkedin.com/in/rodrigolluz/
