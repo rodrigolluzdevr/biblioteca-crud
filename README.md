@@ -3,7 +3,7 @@
 
 Readme.md
 
-![print.tela-login](https://github.com/rodrigolluzdevr/biblioteca-crud/assets/127913307/4b2a584c-d76b-48c7-8706-bc27bf2fb392)
+
 
 
 ```sql
@@ -30,6 +30,30 @@ $dbname = "crud";
 $coon = new PDO("mysql:host=$host;dbname=".$dbname, $user, $pass);
 ```
 ##
-# Créditos: Rodrigo Luz
-#rodrigolluzdevr@gmail.com
-#https://www.linkedin.com/in/rodrigolluz/
+
+# Views
+
+- Tela de login:
+
+![print.tela-login](https://github.com/rodrigolluzdevr/biblioteca-crud/assets/127913307/4b2a584c-d76b-48c7-8706-bc27bf2fb392)
+
+- Tela de cadastro:
+
+![print.tela-cadastro](https://github.com/rodrigolluzdevr/biblioteca-crud/assets/127913307/7beea883-125e-4c53-9285-d68d336f6028)
+
+- Database:
+
+![print.database](https://github.com/rodrigolluzdevr/biblioteca-crud/assets/127913307/64f6c282-703c-4ef2-b3b2-02c968d6d74d)
+
+- Inf. :
+
+
+![print.inf](https://github.com/rodrigolluzdevr/biblioteca-crud/assets/127913307/a7ad9f72-40bf-4331-a907-c5cf63448fca)
+
+
+- edit. :
+
+![print.edit](https://github.com/rodrigolluzdevr/biblioteca-crud/assets/127913307/3bc1aaf9-4c91-46e6-92df-d159716d470a)
+
+# Créditos: 
+rodrigolluzdevr@gmail.com | https://www.linkedin.com/in/rodrigolluz/
