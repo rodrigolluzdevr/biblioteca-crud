@@ -50,5 +50,7 @@ $coon = new PDO("mysql:host=$host;dbname=".$dbname, $user, $pass);
 
 ![print.edit](https://github.com/rodrigolluzdevr/biblioteca-crud/assets/127913307/3bc1aaf9-4c91-46e6-92df-d159716d470a)
 
-# Créditos: 
-rodrigolluzdevr@gmail.com | https://www.linkedin.com/in/rodrigolluz/
+# Redes Sociais: 
+https://www.linkedin.com/in/rodrigolluz/
+
+rodrigolluzdevr@gmail.com
